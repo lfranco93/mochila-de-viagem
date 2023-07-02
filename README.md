@@ -1,10 +1,10 @@
 # Mochila de Viagem
 
-![Mochila de Viagem]()
+![Mochila de Viagem](https://github.com/lfranco93/mochila-de-viagem/assets/128258469/a6955402-2846-4fda-967c-ce21fad5ee10)
 
 ### Bem vindo, essa é a criação do projeto Mochila de Viagem, simulando um lista/lembrete dos itens que deve levar em sua próxima viagem. Nele foi desenvolvido o conhecimento necessário para a manipulação do Local Storage do navegador.
 
-# Tenconologias Utilizadas
+# Tecnologias Utilizadas
 
 - HTML
 - CSS
